@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Uni Neue';
+    src: local('Uni Neue Light'), local('Uni-Neue-Light'),
+        url('UniNeueLight.woff2') format('woff2'),
+        url('UniNeueLight.woff') format('woff'),
+        url('UniNeueLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
